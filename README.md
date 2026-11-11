@@ -2,7 +2,7 @@
 
 This repository contains a simple, automated Google Colab notebook for running the **MOSS-Image** AI model. Built on a ComfyUI backend, it allows you to generate stunning images from text (Text-to-Image) and perform precise edits on existing photos (Image-to-Image), completely free on a Google Colab T4 GPU.
 
-**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=soon)
+**🎥 Watch the Tutorial:** [How to Use](https://www.youtube.com/watch?v=ge0XGI-mMMQ)
 
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1Zw1a7MKYIvUw_IXIhcYwc6VDue8bn_z4?usp=sharing)
 
