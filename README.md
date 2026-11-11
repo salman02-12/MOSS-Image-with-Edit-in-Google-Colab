@@ -7,7 +7,7 @@ This repository contains a simple, automated Google Colab notebook for running t
 **🚀 Run in Colab:** [Open Google Colab Notebook](https://colab.research.google.com/drive/1Zw1a7MKYIvUw_IXIhcYwc6VDue8bn_z4?usp=sharing)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salman02-12/MOSS-Image-with-Edit-in-Google-Colab/blob/main/MOSS_Image_with_Edit_CoinNoin.ipynb)
-[![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/soon)
+[![Get Pro](https://img.shields.io/badge/Get%20Pro-PayPal-blue?logo=paypal)](https://www.paypal.com/ncp/payment/HTCX4EVDFCZSE)
 
 ---
 <img src="./thumbnail.png" width="100%" />
